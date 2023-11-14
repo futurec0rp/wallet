@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "ethers": "^6.8.1",
+    "telegraf": "^4.15.0",
+    "web3": "^4.2.2"
+  }
+}
